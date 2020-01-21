@@ -1,0 +1,29 @@
+/**** SIZES ****/
+/**** COLORS ****/
+/***** MIXING *****/
+body {
+  margin: 0;
+}
+body .main {
+  max-width: 1360px;
+  margin: 0 auto;
+}
+body .main .top-bar {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-between;
+  -moz-justify-content: space-between;
+  -ms-justify-content: space-between;
+  justify-content: space-between;
+  background: #000;
+  color: gray;
+  padding: 10px;
+}
+body .main .top-bar span {
+  color: #fff;
+}
+
+/*# sourceMappingURL=style.css.map */

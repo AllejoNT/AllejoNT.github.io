@@ -1,0 +1,12 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hola mundo": "echo hola",
+    "style": "sass sass/style.scss:css/style.css && npm run \"hola mundo\""
+  },
+  "author": "",
+  "license": "ISC"
+}
